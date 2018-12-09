@@ -1,7 +1,7 @@
 ## Gender classification challenge
 
 ### Overview
-The code uses the scikit-learn machine learning library to train a neural Network on a small dataset of body metrics (height, width, and shoe size) labeled male or female. Then we can predict the gender of someone given a novel set of body metrics.
+The code uses the scikit-learn machine learning library to train an Artificial Neural Network on a small dataset of body metrics (height, width, and shoe size) labeled male or female. Then we can predict the gender of someone given a novel set of body metrics.
 
 ### Dependencies
 Install missing dependencies using pip
