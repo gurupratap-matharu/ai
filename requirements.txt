@@ -1,6 +1,12 @@
 # local package
 -e .
 
+keras
+pandas
+matplotlib
+notebook
+scikit-learn
+
 # external requirements
 click
 Sphinx
