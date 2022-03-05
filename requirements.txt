@@ -1,9 +1,11 @@
 # local package
 -e .
 
+black
 keras
 pandas
 matplotlib
+nbqa
 notebook
 scikit-learn
 
